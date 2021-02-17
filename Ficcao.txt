@@ -1,0 +1,52 @@
+﻿<item>
+<title>[COLOR lawngreen][B]Proximity[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7F407953E891205E4E93C10DB5FCA91D2224BA0$texto=[B][COLOR white]DUBLADO[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57cd2916529dc9d9dc89edd5cc4cedf8fec9de63$texto=[B][COLOR white]LEGENDADO[/COLOR][/B]</link>
+<thumbnail>https://bluraytorrent.com.br/wp-content/uploads/2020/07/nto7dx8vmqESDU484huGoSt4o48.jpg.webp</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um jovem cientista trabalha para a NASA, ele é abduzido por extraterrestres. Quando ninguém acredita em sua história, ele fica obcecado em encontrar provas que o levem a uma jornada de descoberta.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Interestelar[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c041a3e511bcf55987ad1b00c261cbc8e8b02735</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Depois da Terra[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23fb96c98419670ee783a9effdc0b2935439328f</link>
+<thumbnail>https://i.imgur.com/6g5tCzQ.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um pouso forçado deixa o adolescente Kitai Raige (Jaden Smith) e seu lendário pai Cypher (Will Smith) encalhados na Terra, 1.000 anos depois que eventos cataclísmicos forçaram a humanidade a fugir. Com Cypher gravemente ferido, Kitai deve embarcar em uma perigosa jornada para pedir ajuda, enfrentando terreno desconhecido, evoluídas espécies animais que agora dominam o planeta, e uma implacável criatura alienígena que escapou durante o acidente. Pai e filho devem aprender a trabalhar juntos e confiar um no outro se quiserem alguma chance de voltar para casa.</info>
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Cópias: De Volta a Vida[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3927c8f8667097cd47d6c092c983c83161aec6a6&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sHPfBVFq7dlnXCz1zFdbEdwcBDJ.jpg</fanart>
+<genre> [COLOR White][B] Crime, Mistério, Ficção-Científica[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: Um neurocientista (Keanu Reeves) desafia todas as leis da física e do código penal para trazer de volta sua família, morta em um acidente de trânsito.[/COLOR] IMDb: 5,6/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Vidro[/B][/COLOR]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c80afeb9c2baed51304278e86242b61c00a8f3&dn</link>
+<thumbnail>http://woomagazine.com.br/wp-content/uploads/2019/01/49790927_1417544275046906_3125783086705410048_o.jpg</thumbnail>
+<fanart>http://midiafest.com/midiafest/wp-content/uploads/2019/01/IMAGEM_NOTICIA_3-1.jpg</fanart>
+<genre> [COLOR White][B]  Drama Ficção Científica[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Após a conclusão de Fragmentado (2017), Kevin Crumb (James McAvoy), o homem com 23 personalidades diferentes, passa a ser perseguido por David Dunn (Bruce Willis), o herói de Corpo Fechado (2000). O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price (Samuel L. Jackson), que manipula os encontros entre eles e mantém segredos sobre os dois.[/COLOR] IMDb 7.4[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Presságio[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5db91bc2eea53a070340dcaa0c9748065f93e13&dn</link>
+<thumbnail>https://i.servimg.com/u/f81/12/71/63/34/135.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/YQR92SSwaD4/maxresdefault.jpg</fanart>
+<genre> [COLOR White][B] Drama – Mistério[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Nicolas Cage é um professor que, ao examinar o conteúdo de uma cápsula do tempo, descobre alguns desenhos feitos por alunos de uma escola em 1958. Em uma das folhas, há coordenadas de datas, mortes e desastres que aconteceram nestes 50 anos. Ele conclui que algumas delas ainda não ocorreram e que o mundo acabará em uma semana, mas de alguma forma, ele e seus filhos estão relacionados com as tragédias.[/COLOR] IMDb 6.2[/B]</info>
+</item>
+

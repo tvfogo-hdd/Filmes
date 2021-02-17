@@ -1,0 +1,181 @@
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em: O Mapa do Tesouro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1fb881538e2aa79a6121058f9a67ca864df941d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4RDxMKvGGqNElnHpjPenlHEJUg.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas e Gi vão passar férias no sítio da vovó para curtir a natureza e descobrem um mapa do tesouro. Agora eles precisam embarcar numa aventura musical cheia de mistério para encontrar o baú perdido antes que um vilão faça isso.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas neto :Acampamento de férias 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5a955209d9500f9bf122c8942dda87df787594f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nTmYMM7divfQx6CrGUEnU0EbLEZ.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas e Gi se separam pela primeira vez em uma competição no acampamento. As meninas e os meninos se enfrentam em um Show de Talentos por uma vaga em uma banda pop de verdade. As trollagens começam! Quem será que vai levar a melhor?</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em Acampamento de Ferias 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:befd8baa8234b8673bcc51f2635120a71392987b</link>
+<thumbnail>https://a.imagem.app/PbMS1.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Nestas férias, Luccas Neto e seus amigos viajam para um novo acampamento! Desta vez, enfrentarão uma equipe de rivais muito habilidosos e uma chefe rigorosíssima. Surpresas e músicas divertidas aguardam você nesta nova aventura!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em - Acampamento de Férias[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cbb8e78d9e4c24d112d81c8c9b24ffdbcde2584</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/qZPBUSqcJ2LbKYEitosojSLclkx.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas e Gi vão passar as férias no acampamento onde acontece a Gincana mais famosa do mundo. O único problema é que os implicantes também foram para lá… Um musical para todas as idades que vai dar férias ao mau humor.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em: O Fim do Natal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C369082579CABFE734437763DE8E15E2D60C7DB3</link>
+<thumbnail>https://ondebaixa.com/capas/luccas-neto-em-o-fim-do-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas Neto e Gi viverão uma inesquecível aventura no Polo Norte. Às vésperas do Natal, os presentes começam a sumir misteriosamente e o Papai Noel precisa de ajuda. Luccas e Gi vão correr contra o tempo para descobrir o que aconteceu e salvar o Natal!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em - Dia das Crianças[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64981E871B01E514F3883898315CFD7C7EECC6E8</link>
+<thumbnail>https://ondebaixa.com/capas/luccas-neto-em-dia-das-criancas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas Neto quer fazer uma grande festa do Dia das Crianças, mas alguém está planejando tomar o controle da escola e cancelar a festa! E agora? O que será que vai acontecer?</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em - O Hotel Mágico[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32f416a47d68202ee7d4bc086dd2e64784487825</link>
+<thumbnail>https://comandotorrents.org/wp-content/uploads/2020/05/Luccas.Neto_.em_.O.Hotel_.Magico.2020.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Luccas e Gi se hospedam no Hotel Mágico para dar uma importante entrevista em rede nacional sobre o seu mais novo lançamento. Só que os Elfos malvados vieram do Polo Norte em busca de vingança e a missão se transformará numa grande aventura.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em - Perdidos na Noite de Natal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d872a42485175a81f4168ad94e70b0f2dc8112&</link>
+<thumbnail>https://ondebaixa.com/capas/luccas-neto-em-perdidos-na-noite-de-natal-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Na véspera de Natal, Luccas e sua irmã Gi maravilhados com a decoração do shoppping, acabam se perdendo dos seus pais. Mas o que seria uma noite divertida, se torna perigosa quando descobrem uma dupla de ladrões. E agora quem vai salvar o Natal?</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Luccas Neto em - Uma Babá Muito Esquisita[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c94562a533c12625db92e1753bfc4860f7c0ebf</link>
+<thumbnail>https://torrentool.org/capa/luccas-neto-em-uma-baba-muito-esquisita-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Faroeste Caboclo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26329FCB80ADFA63E2463B17A70619B722227692</link>
+<thumbnail>https://i.imgur.com/fX9dN4T.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: João (Fabrício Boliveira) deixa Santo Cristo em busca de uma vida melhor em Brasília. Ele quer deixar o passado repleto de tragédias para trás. Lá, conta com o apoio do primo e traficante Pablo (César Troncoso), com quem passa a trabalhar. Já conhecido como João de Santo Cristo, o jovem se envolve com o tráfico de drogas, ao mesmo tempo em que mantém um empregro como carpinteiro. Em meio a tudo isso, conhece a bela e inquieta Maria Lúcia (Ísis Valverde), filha de um senador (Marcos Paulo), por quem se apaixona loucamente. Os dois começam uma relação marcada pela paixão e pelo romance, mas logo se verá em meio a uma guerra com o playboy e traficante Jeremias (Felipe Abib), que coloca tudo a perder.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Abraço (2020) Nacional[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ad7668e1a6c6372b3d1ed9f1956f3a00811170</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4t71ePIzi3OTyUIHkXzcQQiJLJz.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Em 2008, os professores sergipanos travam uma luta jurídica com o governo do estado para evitar a perda de direitos já conquistados. 30 mil professores de todas as partes do estado deixam suas escolas e partem em uma longa jornada para lutar na capital Aracaju. O desafio é convencer os desembargadores do Tribunal de Justiça a não votar pelo fim da carreira do magistério. O julgamento é adiado duas vezes e a batalha se prolonga por um mês. No meio desta luta entre governo e professores, a professora Ana Rosa vive o desafio de ser mãe, mulher e dirigente sindical. Ela precisa conciliar as múltiplas tarefas da vida profissional e doméstica, mas a incompreensão de seu marido e a visão machista de sua própria mãe tornam a sua jornada ainda mais desafiadora.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Mussum, Um Filme do Cacildis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b00a68bde440d852f042dab8e3adb382c767e1a4&dn</link>
+<thumbnail>https://hidratorrent.org/capas/mussum-um-filme-do-cacildis-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/mussum-um-filme-do-cacildis-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Documentário que conta a trajetória do músico e comediante Mussum. Primeiro como vocalista do grupo Os Originais do Samba e depois no cinema e na TV como integrante d’Os Trapalhões, grupo que revolucionou a forma de fazer humor na teledramaturgia brasileira. De forma irreverente e com estética gráfica inovadora, o filme vai revelar ao grande público quem foi esse artista que brilhou por todas as áreas das artes brasileiras e que continua presente até hoje como um ícone pop nas redes sociais, em camisetas e em campanhas publicitárias.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Divino Amor[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24965f900b94e4aeee3b142c42f64bfc179dedc4&dn</link>
+<thumbnail>https://hidratorrent.org/capas/divino-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/divino-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Brasil, 2027. Uma devota religiosa usa seu ofício num cartório para tentar dificultar os divórcios. Enquanto espera por um sinal divino em reconhecimento aos seus esforços é confrontada com uma crise no seu casamento que termina por deixá-la ainda mais perto de Deus.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Kardec[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4B88371A1347E4888FAF4A28D5D334450ACAC37&dn</link>
+<thumbnail>https://hidratorrent.org/capas/kardec-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/kardec-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Leonardo Medeiros é o protagonista Hyppolite Léon Denizard Rivail - reconhecido depois como Allan Kardec -, o educador francês nascido em 1804 que codificou o espiritismo a partir de 1857. A produção tem ainda no elenco nomes como Sandra Corveloni (Amélie-Gabrielle Boudet), Guilherme Piva (Didier), Genézio de Barros (Padre Boutin), Guida Vianna (Madame De Plainemaison), Julia Konrad (Ruth-Celine), Charles Fricks (Charles Baudin), Licurgo Espinola (Sr. Babinet), Letícia Braga (Julie), Júlia Svacinna (Caroline), Dalton Vigh (Sr. Dufaux) e Louise D’Tuani (Ermance Dufaux). O roteiro de Wagner de Assis e L.G. Bayão (“Irmã Dulce”, “Heleno” e “Minha Fama de Mau”) e Wagner de Assis acompanha a trajetória de Kardec desde o período em que atuava como educador, passando pela investigação dos fenômenos, pelo processo de codificação da doutrina espírita, até a publicação e repercussão de “O Livro dos Espíritos”.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Primos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d03bb8332debe5d4ff81b8731913eac92dab9933&dn</link>
+<thumbnail>https://hidratorrent.org/capas/primos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/primos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>O jovem Lucas (Paulo Sousa) vive com a religiosa tia Lourdes (Juliana Zancanaro) em uma pacata cidade do interior. Ele ajuda a tia a promover os cultos com as beatas da região, na sala de casa, tocando cânticos bíblicos no teclado. Esta vida pouco agitada estará com os dias contados a partir do momento em que a caridosa tia comunica a chegada de mais um sobrinho, Mário (Thiago Cazado), recém saído da cadeia. O choque de realidade entre os primos acaba rendendo não só situações pra lá de inusitadas, como também uma inesperada atração entre os rapazes.</info>
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Sai de Baixo O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96FC6708A2BA87A4DEDB9396E5F1712B5501CE38&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rIdrvJZittNFRqb4GKTBF6cU9Ak.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/56/99/d7/5699d769338dbc6291cee4de92d9e1f0.jpg</fanart>
+<genre> [COLOR White][B] Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: É a volta dos personagens icônicos da série de sucesso da Rede Globo, como Caco (Miguel Falabella), Magda (Marisa Orth) e Ribamar (Tom Cavalcante), assim como novos personagens que[/COLOR] IMDB: 5.2/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Breve Miragem de Sol[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a74771da3a601b4eb65fbafaeb570cfc7ef2983</link>
+<thumbnail>https://hidratorrent.org/imagens/breve-miragem-de-sol-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Vivendo à própria sorte e recentemente divorciado, Paulo (Fabricio Boliveira) começa a trabalhar como taxista durante a noite, no Rio de Janeiro. Lutando para conseguir dinheiro suficiente para pagar a pensão do filho de 10 anos, Paulo trabalha exaustivamente e, nessa jornada noturna, sempre encontra novos rostos que o ajudam a enfrentar a solidão. Entre essas pessoas, está Karina (Barbara Colen), uma enfermeira que traz a paz e o amor de volta para sua vida</info>
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Sai de Baixo O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96FC6708A2BA87A4DEDB9396E5F1712B5501CE38&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rIdrvJZittNFRqb4GKTBF6cU9Ak.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/56/99/d7/5699d769338dbc6291cee4de92d9e1f0.jpg</fanart>
+<genre> [COLOR White][B] Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: É a volta dos personagens icônicos da série de sucesso da Rede Globo, como Caco (Miguel Falabella), Magda (Marisa Orth) e Ribamar (Tom Cavalcante), assim como novos personagens que[/COLOR] IMDB: 5.2/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Chacrinha: O Velho Guerreiro[/B][/COLOR]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6eec02dc48c109d29adb842ea43950f6e8ea85a&dn</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/09/06/18/19/5179529.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-QHVmQwG9sBM/W95ueGq3b2I/AAAAAAAAEe0/X8aXxko7Kf4_vMDG7spcCkD5OCznEaVpQCLcBGAs/s1600/chacrinha%2B-%2Bo%2Bvelho%2Bguerreiro.png</fanart>
+<genre> [COLOR White][B] Drama, Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: A trajetória de José Abelardo Barbosa, o Chacrinha, desde o momento em que larga a faculdade de medicina para se aventurar em seu primeiro “bico” como locutor de rádio até se transformar no alter ego mais conhecido do Brasil.[/COLOR] IMDb: 6.4/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]1964 - O Brasil entre armas e livros[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80A4CAFA03A119EBBD6B39B6B7EA289B40E9FD7&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mUcLVYkvUxmNsd8ZcOvAs1c7ZLc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/btqOvQnLPLS0kB7EeATBCRuFFa9.jpg</fanart>
+<genre> [COLOR White][B] Documentário Nacional[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Sinopse: Produzido pelo Brasil Paralelo, este é o maior documentário já produzido no país sobre o período do Regime Militar brasileiro. A equipe viajou até o Leste Europeu para buscar nos documentos, até então, secretos, do serviço de inteligência da extinta Tchecoslováquia os fatos que nos esconderam. Pela primeira vez eles irão ao público em forma de documentário.[/COLOR] IMDb: 5.3/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Chacrinha: O Velho Guerreiro[/B][/COLOR]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6eec02dc48c109d29adb842ea43950f6e8ea85a&dn</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/09/06/18/19/5179529.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-QHVmQwG9sBM/W95ueGq3b2I/AAAAAAAAEe0/X8aXxko7Kf4_vMDG7spcCkD5OCznEaVpQCLcBGAs/s1600/chacrinha%2B-%2Bo%2Bvelho%2Bguerreiro.png</fanart>
+<genre> [COLOR White][B] Drama, Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: A trajetória de José Abelardo Barbosa, o Chacrinha, desde o momento em que larga a faculdade de medicina para se aventurar em seu primeiro “bico” como locutor de rádio até se transformar no alter ego mais conhecido do Brasil.[/COLOR] IMDb: 6.4/10[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Yonlu[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c457b4fc735be9773a71c2db4e42d24d244a899&dn=</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/07/24/22/09/4949197.jpg</thumbnail>
+<fanart>https://f.i.uol.com.br/fotografia/2018/08/29/15355819825b871f1e8c733_1535581982_3x2_xl.jpg</fanart>
+<genre> [COLOR White][B]  Biografia Drama Nacional[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Baseado na história real de Vinícius, de nome artístico Yonlu, dono de grande talento como poeta, músico e desenhista. O rapaz, um gênio que domina quatro idiomas, que escreve seus poemas em inglês e faz sucesso na internet tocando suas músicas, sente-se deslocado socialmente e melancólico diante da vida. Para tentar superar essas dificuldades, começou a fazer análise aos oito anos. Aos 16, num momento de maior fragilidade, procura um fim apoiado por um grupo de internautas em um...[/COLOR] IMDb: 7.1[/B]</info>
+</item>

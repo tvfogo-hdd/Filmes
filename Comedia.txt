@@ -1,0 +1,525 @@
+﻿<item>
+<title>[COLOR lawngreen][B]American Pie[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:648d62657cd2aa3269e44e495f298182b9621048$texto=[B][COLOR white]American Pie - A Primeira Vez é inesquecível[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:361245393aae4762152735f6af644b350a226c9a$texto=[B][COLOR white]American Pie: A Segunda Vez é Ainda Melhor[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:481ed80f7afc4545124037dda2f73900926af869$texto=[B][COLOR white]American Pie 3 - O Casamento[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73d1917698b610ab65ad424a3fad83fee327dc6f$texto=[B][COLOR white]American Pie 4 - Tocando a Maior Zona[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:671FF37B799AF3CEE68F23DEB8EE31805DCE7A36$texto=[B][COLOR white]American Pie 5 – O Último Stifler Virgem[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2BFBDF9E1ED5C145BC51A697601AD731AF143425$texto=[B][COLOR white]American Pie 6 – Caindo em Tentação[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92DE9B34EB524B60175EE0D4368784633E94D7A7$texto=[B][COLOR white]American Pie 7 – O Livro do Amor[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56DD1D01BA61292CF3F097B9B97187198662A227$texto=[B][COLOR white]American Pie 8 - O Reencontro[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9a77e93a0a737aaa208e52023bcffaa9c77cb4d$texto=[B][COLOR white]American Pie 9 - Meninas ao Ataque[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Coleção 9 Em 1</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Ninguém Brinca com Jesus Quintana[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c531d9ef3da43e9131e56e2d566a4855bb452b15</link>
+<thumbnail>https://comandotorrentshd.org/wp-content/uploads/2021/01/Ningu%C3%A9m-Brinca-com-Jesus-Quintana-TorrentS.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Neste spin-off de “O Grande Lebowski”, Jesus Quintana (John Turturro) é um cara excêntrico que acaba de sair da prisão, mas que já está pronto para aplicar novos golpes. Ele então se une a seu velho amigo Petey (Bobby Cannavale) e juntos roubam um carro para iniciar uma nova empreitada de aventuras. No caminho, eles conhecem a descontraída Marie (Audrey Tautou), que formará um triângulo amoroso com a dupla.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Pequenos Grandes Heróis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a381d744422546c7cdda1c2197ffd452e0cce37d</link>
+<thumbnail>https://comandotorrentshd.org/wp-content/uploads/2020/12/Pequenos-Grandes-Her%C3%B3is-TorrentS.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Após seus pais serem sequestrados por invasores aliens, os filhos dos super-heróis da Terra precisam se reunir e aprender a trabalhar juntos para salvar não apenas os pais, mas o planeta.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Kung-fusão[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2dd8316aaf5efa8fa7cd0ba279b10bc31e60f88</link>
+<thumbnail>https://i.imgur.com/btrLz3w.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Em uma cidade controlada pela gangue Axe, Sing (Stephen Chow) quer desesperadamente se tornar um membro. Ele vai para um cortiço comandado por excêntricos senhorios que se revelam mestres do kung fu disfarçados. As ações de Sing eventualmente acabam provocando um explosivo confronto de kung fu entre a gangue Axe e os senhorios. Apenas um lado irá vencer e apenas um herói irá emergir como o maior mestre do kung fu de todos.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Tudo Bem No Natal Que Vem[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4eeaaf42bfca1e8784ec7b216cd31046b0ea70a</link>
+<thumbnail>https://ondeeubaixo.org/imagens/tudo-bem-no-natal-que-vem-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Jorge passou a vida inteira dividindo seu aniversário com a data comemorativa mais importante do ano. Ele cresceu fazendo de tudo para evitar o natal, mas não é tão fácil fugir da festa quando se tem dois filhos pequenos e uma esposa disposta a fazer um almoço comemorativo para a família inteira. Ao tentar consertar a instalação elétrica da casa para acender a decoração natalina, Jorge toma um choque fortíssimo e apaga. Ele então acorda no dia de natal do ano seguinte, vivendo o inferno da comemoração em família outra vez. Ele dorme, acorda, e é natal de novo. E de novo. E de novo.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Galeria dos Corações Partidos (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c066b956214f3f1e49bc394e9639fb0717d10968</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/44k9shYGerapzXDNi3wjoKuBjI5.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Depois de uma decepção amorosa, a jovem Lucy decide criar um projeto para reunir objetos que o amor deixou para trás e a notícia se espalha, garantindo um novo começo para os românticos da cidade.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Carlinhos e Carlão[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8696fc858fa5522917ca702c2e35afa5b5982cf6</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/iTvucNrlZxOX5vFf9pYonPkFFUv.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Carlão (Luis Lobianco) é um homem preconceituoso que trabalha em uma concessionária de carros com Cadinho (Marcelo Flores), Zeca (Saulo Rodrigues) e Antunes (Pedro Monteiro). Nas conversas entre eles, Carlão sempre se vangloria de ser o maior entendedor de futebol e mecânica, tudo em meio a piadas machistas e homofóbicas. Quando Evaristo (Luis Miranda) é alvo de tais agressões verbais, ele passa a persegui-lo e trancá-lo em um armário mágico. De lá sai Carlinhos (Luis Lobianco), alter-ego homossexual que assume o corpo de Carlão quando chega a noite.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Didi Quer Ser Criança[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F3D7E3CDD40EAA0B90256657DDA4428B06A48B4</link>
+<thumbnail>https://ondebaixa.com/capas/didi-quer-ser-crianca-download-torrent-2004-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Didi (Renato Aragão) trabalha como provador de balas em uma pequena fábrica de doces tradicionais, que enfrenta a forte concorrência de uma outra fábrica, que produz doces usando corantes e ingredientes artificiais que fazem mal às crianças. Além disto a pequena fábrica em que Didi trabalha enfrenta a mídia da concorrência, que produz comerciais voltados para as crianças. Apesar de tentar convencê-las de que balas com ingredientes artificiais fazem mal elas não ouvem Didi, já que criança não ouve adulto. À noite Didi pede ajuda aos santos Cosme (Rafael de Castro) e Damião (Daniel de Castro) e tem seu desejo atendido na figura de dois homens maltrapilhos, a quem Didi ajuda. Eles dão a Didi um saco de balas mágicas, que têm o poder de transformar quem as come em criança. É a grande chance que Didi esperava para poder enfim convencer as crianças a rejeitarem balas artificiais e recuperar o espírito de Cosme e Damião.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Hannah Montana - O Filme (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21b47be200c0645d352c55089abc8bd908b73aee</link>
+<thumbnail>https://ondebaixa.com/imagens/hannah-montana-o-filme-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Na medida em que a popularidade de Hannah Montana cresce e passa a tomar conta da vida da garota, Miley Stewart (Miley Cyrus), encorajada pelo pai (Billy Ray Cyrus), sai em viagem a sua cidade natal, Crowley Corners, no Tennessee, para tentar compreender o que mais importa na vida.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Cartas Para Quem Ficou[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f20c08ea90041b3983a9de1b1e06c088650c94b8</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/40WWr3PqtuVE0gwguSs4orc39P4.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Duas garotas, que eram apaixonadas pelo mesmo rapaz, começam a receber mensagens de texto no celular, e outras mensagens misteriosas após sua morte. Porém, ele era a única pessoa quem poderia enviar essas mensagens. Isso faz com que as duas rivais, se juntem e viagem para o sul do país, em busca de respostas</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Ela Disse, Ele Disse - Nacional[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d90d0d1f363b8480b53b281c76bdf3e13bf58b2a</link>
+<thumbnail>https://hidratorrent.org/imagens/ela-disse-ele-disse-nacional-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Rosa (Duda Matte) e Léo (Marcus Bessa) são adolescentes de 14 anos que acabaram de entrar em uma nova escola, onde precisam lidar com a difícil tarefa de fazer novos amigos. Enquanto Léo logo demonstra interesse em futebol, Rosa enfrenta problemas com Júlia (Maísa), a garota mais popular do colégio</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Pequeno Spirou[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23C400C2B0117B7A3A0051895DDA115C2510F16A</link>
+<thumbnail>https://hidratorrent.org/imagens/o-pequeno-spirou-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Adaptação para o cinema da história em quadrinhos 'Le Petit Spirou'. Petit Spirou está com seu destino traçado por sua família. No próximo ano escolar, ele vai entrar na escola de noivos. Surpreso, Petit Spirou decide, com a ajuda de seus amigos para usar seus últimos dias de aula para finalmente declarar seu amor por Suzette. E não importa como. Ele decide fazer uma incrível aventura em que descobre sua verdadeira vocação: aventureiro! Mas isso não será tão fácil, pois é contra as ambições da família</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]ViihTube - Amiga do Inimigo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14197db266386fc9285b708f7387834fb5be56d5</link>
+<thumbnail>https://hidratorrent.org/imagens/viihtube-amiga-do-inimigo-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Desde a criação de uma página anônima nas redes, boatos rondam o Colégio Recanto. Bia (ViihTube) quer descobrir quem está por trás das fofocas e, assim, negociar com a diretora a volta do seu irmão, Gustavo que havia sido expulso. O que não estava em seus planos era que uma nova aluna também quer investigar o caso.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Amor Garantido[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ecaa3d71693e2feb81018bb2d422a0da3df2508</link>
+<thumbnail>https://hidratorrent.org/imagens/amor-garantido-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Para salvar seu pequeno escritório de advocacia, Susan decide aceitar o caso de Nick, um novo cliente querendo processar um site de namoro que garante o amor. Mas, conforme o caso esquenta, a relação entre eles também segue o mesmo rumo</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Get Duked![/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1c9081c72517d3e648b2bbf5d687339a5d5ccd</link>
+<thumbnail>https://hidratorrent.org/imagens/get-duked-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Uma comédia anárquica inspirada no hip-hop que segue quatro garotos da cidade em uma jornada na selva enquanto eles tentam escapar de um misterioso caçador</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Tirando a Maior Onda - O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cbda1bfcd534c618df792864e52083c9018bd6</link>
+<thumbnail>https://hidratorrent.org/imagens/tirando-a-maior-onda-o-filme-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Adaptação para o cinema da série "Tirando a Maior Onda". Sal, Q, Murr e Joe, amigos desde o ensino médio, viajam de carro de Staten Island, NY a Miami, fazendo várias paradas no caminho, repletas de desafios humilhantes e hilariantes</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]The Day Shall Come[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e5b86381c4540cbadb4b2264df54a2b5f178d07</link>
+<thumbnail>https://hidratorrent.org/imagens/the-day-shall-come-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Quando um aspirante a profeta é ameaçado de ser expulso com a família de sua casa, ele parece ter encontrado a solução ao receber uma oferta em dinheiro. O que ele não sabe é que sua "patrocinadora" na verdade trabalha para o FBI e planeja levá-lo para o mundo do crime para ficar bem na fita pro seu chefe</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Lindinhas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed15664fe7d6f0cf84eb62bb85fccfa8d2bccca8</link>
+<thumbnail>https://hidratorrent.org/imagens/lindinhas-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Amy tem 11 anos, e se junta a um grupo de dançarinos na escola, e rapidamente se conscientiza de sua florescente feminilidade - perturbando sua mãe e seus valores no processo</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]De Quem É O Sutiã?[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEF5E29D146DEF095625E379E7DEAE024DA83AE6</link>
+<thumbnail>https://hidratorrent.org/imagens/de-quem-e-o-sutia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O maquinista de trem, Nurlan, está indo a Baku (Azerbaijão) pela última vez antes de se aposentar. Ao chegar na cidade, seu trem esbarra em um varal e derruba um sutiã azul. Para escapar da sua existência solitária, Nurlan embarca em uma das jornadas mais aventureiras de sua vida: encontrar a dona de tal peça íntima</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Vem Com o Papai[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fd3327bab658fd9e71f0769487ad4e29548108a</link>
+<thumbnail>https://hidratorrent.org/imagens/vem-com-o-papai-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um homem na casa dos trinta viaja para uma cabana remota para se reconectar com seu pai distante.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Casa De Hóspedes[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58984449c09839ec458d7c7d79acca76475b64b4</link>
+<thumbnail>https://hidratorrent.org/imagens/a-casa-de-hospedes-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Um casal recém noivos encontram a casa dos seus sonhos, e rapidamente se torna um pesadelo quando o amigo do proprietário anterior continua na sua casa de hóspedes. Isso leva a uma guerra que, finalmente, as ruínas de sua casa, seu casamento e suas vidas</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Muito Amor Pra Dar[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e18030872863b2cf3f89919017dd1ef89a46b16d</link>
+<thumbnail>https://hidratorrent.org/imagens/muito-amor-pra-dar-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Fernando é um homem de família, igualmente comprometido com cada uma de suas duas famílias. Mas uma curva errada os traz colidindo.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Procura-se Um Pai[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d78c960b5e6ced7ac0a8e202f6227108c4df0fb</link>
+<thumbnail>https://hidratorrent.org/imagens/procura-se-um-pai-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O que uma pequena fã de adrenalina faz quando a mãe a proíbe de participar de um campeonato de bicicross? Contrata um ator para fingir que é seu pai. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Babá - Rainha da Morte[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb5c455cb0ee26dca807c4b1c491ab8eec1e328e</link>
+<thumbnail>https://hidratorrent.org/imagens/a-baba-rainha-da-morte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Dois anos após derrotar um culto satânico liderado por sua babá, Cole (Judah Lewis) está tentando superar seu passado e sobreviver o ensino médio. Mas quando velhos inimigos retornam inesperadamente, Cole terá que ser mais esperto para vencer as forças do mal.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Hooking Up[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a893a0c6505e1fb8377d70b19c5e1a542175f05c</link>
+<thumbnail>https://hidratorrent.org/imagens/hooking-up-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Darla é uma repórter cínica, cujo vício em sexo está atrapalhando sua coluna sexual, e sua relação em evolução com Bailey, que é bem intencionado e já foi abandonado por sua namorada e descobre ter câncer de testículo (novamente). Juntos, eles embarcam em uma viagem improvisada, recriando a miríade de encontros de Darla de estado para estado. Ela está procurando uma história e ele está procurando um último hurra; o que eles acham é algo não esperado.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Bill e Ted - Encare a Música[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1248d98a7211043cead49e8f0120830e94aeb665</link>
+<thumbnail>https://hidratorrent.org/imagens/bill-e-ted-encare-a-musica-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Ted (Keanu Reeves) e Bill (Alex Winter) atingiram a meia idade, suas preocupações voltaram-se para as suas famílias e outras responsabilidades da vida adulta. Depois de anos lidando com a frustração de ainda não terem escrito a melhor música de todos os tempos, eles recebem a visita de um homem do futuro e descobrem que apenas uma música criada por eles pode salvar o mundo</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Não Vamos Pagar Nada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a665f648845af4edbf0e333f8b7a772defe14240</link>
+<thumbnail>https://ondeeubaixo.org/imagens/nao-vamos-pagar-nada-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: A vida não está fácil pra ninguém e a grana é cada dia mais curta para Antônia, que está desempregada. Mas ela não perde o senso de humor nem quando se mete numa enorme enrascada. Indignada com o aumento dos preços no único mercado do bairro, que ainda por cima não aceita mais fiado, a dona de casa arma um escândalo e acaba contagiando os outros clientes que, como ela, estão sem dinheiro para pagar a conta. Num grito de guerra, eles avisam: “Nós não vamos pagar nada!”. Na confusão, Antônia se empolga e também leva tudo o que vê pela frente: legumes, verduras, frutas e até alpiste e carne enlatada para... cachorro. Agora, ela vai precisar de muito jogo de cintura para esconder essa loucura do marido, que é todo certinho e, ainda, driblar os policiais que investigam o caso.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Não Vamos Pagar Nada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a665f648845af4edbf0e333f8b7a772defe14240</link>
+<thumbnail>https://ondeeubaixo.org/imagens/nao-vamos-pagar-nada-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: A vida não está fácil pra ninguém e a grana é cada dia mais curta para Antônia, que está desempregada. Mas ela não perde o senso de humor nem quando se mete numa enorme enrascada. Indignada com o aumento dos preços no único mercado do bairro, que ainda por cima não aceita mais fiado, a dona de casa arma um escândalo e acaba contagiando os outros clientes que, como ela, estão sem dinheiro para pagar a conta. Num grito de guerra, eles avisam: “Nós não vamos pagar nada!”. Na confusão, Antônia se empolga e também leva tudo o que vê pela frente: legumes, verduras, frutas e até alpiste e carne enlatada para... cachorro. Agora, ela vai precisar de muito jogo de cintura para esconder essa loucura do marido, que é todo certinho e, ainda, driblar os policiais que investigam o caso.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Viagem das Garotas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7944E819B14AF201C9BEF00774A15299248A7726</link>
+<thumbnail>https://2.bp.blogspot.com/-K11Jw4ygiCI/Wic5MRfvlII/AAAAAAAAG98/tU5CBBUQmHsHA3ruSfRWvkWUHCgKiaVvACLcBGAs/s1600/Viagem-das-Garotas--torrent-2017-download-dublado-dual-audio-5.1-bluray-1080p-720p.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Quatro amigas de longa data partem em uma longa jornada em busca de diversão por Nova Orleães, para participar dos grandes festejos anuais da cidade, o Essence Festival. Lá, a as intimidades são reavidadas e todos voltam a se aproximar com a animação. Ao mesmo tempo, o lado selvagem de algumas se mostra, e a experiência pode mudar a vida de todas para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Ressaca 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F72DF237DC5D5582B033BB30D1CB11EC652FFA53</link>
+<thumbnail>https://ondebaixa.com/capas/a-ressaca-2-sem-censura-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Nick (Craig Robinson), Lou (Rob Corddry) e Jacob (Clark Duke) voltam a se envolver numa misteriosa viagem no tempo através de uma banheira, agora com a companhia de um novo amigo (Adam Scott)</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Ressaca[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78BEE371F6E217BDC1ADB49AA84A82898227BC52</link>
+<thumbnail>https://2.bp.blogspot.com/-ZT2K6GiYPTU/VawkT-9AVHI/AAAAAAAAAAg/-BzBDPWrrcc/s1600/A%2BRessaca.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Adam (John Cusack) foi abandonado por sua namorada. Lou (Rob Corddry) adora uma festa, mas não consegue encontrá-la. Nicky (Craig Robinson) tem sua vida controlada pela esposa. Jacob (Clark Duke) é fanático por videogame e, por causa disto, raramente sai de casa. Eles são amigos e, após uma noite de muita bebedeira, acabam na banheira de hidromassagem de um resort de esqui. Sem saber como, eles acordam em pleno 1986. É a chance que têm para apagar erros do passado e criar um novo futuro.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Shazam[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12E7D137B77B6629C44C6100303991EF065549EE&dn</link>
+<thumbnail>https://hidratorrent.org/capas/shazam-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/shazam-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana (Mark Strong).</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Genro da Minha Vida[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c40e3fae4910abbfe8818ca72d73f9d7488704c&dn</link>
+<thumbnail>https://hidratorrent.org/capas/o-genro-da-minha-vida-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/o-genro-da-minha-vida-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Stéphane tem uma frustração por não ter tido um filho. Quando sua filha mais nova decide deixar o jogador de rúgbi, que ele idolatra, por um médico, ele não pode aceitar, então fará de tudo para recuperar seu genro. E sua filha não vai deixar passar. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Por Amor ou Por Dinheiro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40230f7fd1cbe9c8d60ea8fda9179fe31f5e8b5a&dn</link>
+<thumbnail>https://hidratorrent.org/capas/por-amor-ou-por-dinheiro-the-revenger-an-unromantic-comedy-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/por-amor-ou-por-dinheiro-the-revenger-an-unromantic-comedy-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Um romance de conto de fadas toma um rumo inesperado quando Mark descobre que sua bela noiva, Connie, vem tramando contra ele.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Lar Ideal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e80ceace2505047f179b051cf9fa6b7108fde28&dn</link>
+<thumbnail>https://hidratorrent.org/capas/lar-ideal-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/lar-ideal-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Paul (Paul Rudd) e Erasmus (Steve Coogan) formam um casal que vivem discutindo um com o outro por coisas banais e levam uma vida cheia de extravagâncias. Erasmus é uma celebridade exigente e popular, enquanto Paul é o seu parceiro e sócio de personalidade mais hesitante.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]The Banana Splits[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a146a27eac4765377fb23b566321ba8fa79a65c8&dn</link>
+<thumbnail>https://hidratorrent.org/capas/the-banana-splits-movie-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/the-banana-splits-movie-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Nesta releitura do clássico programa infantil "Banana Splits" da Hanna-Barbera, exibido nos anos 60, um garotinho chamado Harley ganha de presente de aniversário ingressos para participar da gravação da série de TV, apresentada por um simpático quarteto animalesco. Mas o que parecia ser apenas a chance de se divertir, logo toma um rumo inesperado quando a contagem de corpos aumenta rapidamente.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Pequena Suíça[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40102330445BCFE36EBF99DC9006F4C3B8305D8E&dn</link>
+<thumbnail>https://hidratorrent.org/capas/a-pequena-suica-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/a-pequena-suica-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Os habitantes ranzinzas de uma cidade do País Basco desejam fazer parte da Suíça depois de encontrar a tumba do filho de Guilherme Tell.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Seis Vezes Confusão[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C431E6D45FC1F25C3107A3283609425FE3641564&dn</link>
+<thumbnail>https://hidratorrent.org/capas/seis-vezes-confusao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/seis-vezes-confusao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Alan embarca em uma jornada pessoal para conhecer sua mãe biológica antes da chegada de seu primeiro filho. Quando ele encontra seu irmão, Russell, descobre que ele nasceu de sêxtuplos e decide procurar seus outros quatro irmãos (todos interpretados por Wayans). Juntos, os dois irmãos partem em uma viagem para encontrar o resto da família que nunca conheceram, e Alan rapidamente percebe que pode ter conseguido mais do que esperava.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Com Quem Será?[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172464A6B14EB33DCC8668ADD98A6449E4A64832&dn</link>
+<thumbnail>https://hidratorrent.org/capas/com-quem-sera-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/com-quem-sera-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Frank e Lindsay são duas pessoas emocionalmente feridas, e devem participar de um casamento. Eles se encontram e durante o fim de semana, e contra todas as probabilidades, são atraídos um para o outro, mesmo que sejam repelidos um pelo outro.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Sem dormir até o Natal[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66c2fd1fe19695aa4a8109ef2e641788df9bbbb2&dn</link>
+<thumbnail>https://hidratorrent.org/capas/sem-dormir-ate-o-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/sem-dormir-ate-o-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Um barman e uma empresária descobrem que só têm uma coisa em comum, a insônia. Lizzie (Odette Annable) está prestes a se casar, mas teme que a insônia atrapalhe o momento. Um dia, ela conhece Billy (Dave Annable), que também sofre com a falta de sono. Após um acidente, eles descobrem que, do lado um do outro, conseguem dormir. Esta situação inusitada vai chacoalhar a vida amorosa dos dois.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Dead List - Sua Hora Chegou[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbe9fa0176b8eb2a924e059f9b430a6a31542d1&dn</link>
+<thumbnail>https://hidratorrent.org/capas/dead-list-sua-hora-chegou-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/dead-list-sua-hora-chegou-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Cal está competindo com outros cinco atores para conseguir o papel principal em um grande filme de Hollywood. Em circunstâncias misteriosas, ele encontra um livro que pode mudar sua vida e realiza um aterrorizante ritual. Cal não sabia, contudo, que o preço a se pagar seria alto demais. Um a um, os outros atores vão sendo perseguidos por uma força maligna que, das formas mais violentas e sanguinárias, os persegue e os elimina não apenas das audições para o filme, mas também da vida. A morte os escolheu, e nada poderá salvá-los.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Anos 90[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D2D981ABC311163B4B858DCF0EDFBBFA5E0B484&dn</link>
+<thumbnail>https://hidratorrent.org/capas/anos-90-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/anos-90-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Um garoto aprende lições de vida, juntamente com sua equipe de skate, enquanto cresce na Los Angeles dos anos 90.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Lutando Pela Família[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bbc7b1e09b1477bbdc0435769f3e982de7d0978&dn</link>
+<thumbnail>https://hidratorrent.org/capas/lutando-pela-familia-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/lutando-pela-familia-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Uma jovem (Florence Pugh) deseja lutar na WWE, a associação estadunidense de wrestling, mas, para concretizar o seu sonho, precisará convencer seus pais e suportar uma dura rotina de treinamentos.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Falcons em Jogo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7d7c7064617f20d6b10ed76cf8136fbd857ebf&&dn</link>
+<thumbnail>https://hidratorrent.org/capas/falcons-em-jogo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/falcons-em-jogo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Perdidas na mata e sob a mira de caçadores implacáveis, as jogadoras de um time de vôlei enfrentam a disputa mais perigosa da vida. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Em Cima do Muro[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3ac3243a843711cace8f0c5a183ee81abc578fc&&dn</link>
+<thumbnail>https://hidratorrent.org/capas/em-cima-do-muro-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/em-cima-do-muro-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Juliette sempre faz as escolhas erradas. Um dia, o destino lhe apresenta dois homens.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Gloria Bell[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AEAE19D3087C53F1DD2883AC5419D9737D9C3BD7&dn</link>
+<thumbnail>https://hidratorrent.org/capas/gloria-bell-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/gloria-bell-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Gloria (Julianne Moore) é uma divorciada de espírito livre que passa os dias trabalhando em um escritório tradicional e conservador e que, à noite, se solta, dançando nas muitas discotecas de Los Angeles. Quando conhece Arnold (John Turturro) numa dessas noites, ela acaba envolvida num inesperado novo amor, com todas as alegrias do começo de um romance e as complicações dos encontros, de identidades e famílias.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Mãe e Muito Mais[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ddd9b2f5170b732dc9cb73d1d5a2d06e66862e&dn</link>
+<thumbnail>https://wolverdonfilmes.org/wp-content/uploads/2019/08/Filme-M%C3%A3e-e-muito-mais.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/bvR8-9kvbT8/hqdefault.jpg</fanart>
+<info>Três amigas de longa data decidem viajar para Nova York, a fim de reconectar com os filhos adultos. Só que, no meio de tal processo, percebem que não são apenas as vidas deles que precisam mudar.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Um Ladrão com Estilo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9866AF42BF544C84247A440523EBB0CD24D30819&dn</link>
+<thumbnail>https://1.bp.blogspot.com/-SO3BO2Et1fI/XTpE5GC7NJI/AAAAAAAAYUU/USBN4lMGxYccR78lc1R2JlNLiPxXEuwjQCLcBGAs/s1600/Um%2BLadr%25C3%25A3o%2Bcom%2BEstilo%2B2018.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/rNqucj6f1eM/maxresdefault.jpg</fanart>
+<info>PRECISO, gentil e carismático, forrest trucker domina com maestria a arte de assaltar bancos. Aos 70 anos de idade, o senhor conseguiu a façanha de escapar da prisão de san quentin e de tantas outras, e agora segue conduzindo uma série de roubos que intriga a polícia e fascina os espectadores. No entanto, o detetive john hunt (casey affleck) está na sua cola, e trucker precisará elaborar ainda mais suas artimanhas para ter sucesso no seu último grande ato. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Casal Improvável[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05612AED0CE9B1EA3446A5334AE7EDAFD901A6B0&dn</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/////pbGJQXK0NEYZmUmjdDVQRrufOle.jpg</thumbnail>
+<fanart>https://cosmonerd.com.br/wp-content/uploads/2019/04/casal-improv%C3%A1vel-seth-rogen-charlize-thron-paris-filmes.jpg</fanart>
+<info>fred flarsky é um jornalista que, devido à sua escrita (excessivamente) arrebatada, está novamente desempregado. Um dia, por casualidade, encontra charlotte field, que em tempos foi sua "babysitter" mas que hoje se transformou numa das mais influentes mulheres do mundo. De secretária de estado, ela concorre agora à presidência dos eua. Contente por voltar a vê-lo, charlotte contrata fred, que a conhece há várias décadas, para escrever os seus discursos e para os transformar em algo menos solene do que o habitual. Contudo, o que parecia ser uma parceria estritamente profissional depressa vai dar lugar a algo mais…</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Forjando Campeões[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e26c237e958b2d061ee9f88a1009a9c59f6f46c&dn</link>
+<thumbnail>https://hidratorrent.org/capas/forjando-campeoes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/forjando-campeoes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Marco é um cara pouco otimista, que pelas vicissitudes da vida, torna-se treinador de um time de basquete formado por crianças com deficiência. Relutantemente inicia a tarefa, mas o que começa como trabalho forçado, acaba ajudando-o a sair de sua crise existencial.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Criaturas ao Ataque[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96462959fe8315f42f78e6b504e5bde62cb9f39f&dn</link>
+<thumbnail>https://hidratorrent.org/capas/criaturas-ao-ataque-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/criaturas-ao-ataque-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>A jovem Drea aceita relutantemente trabalhar como babá para um professor de uma universidade que ela pretende entrar. Tentando entreter os filhos dele, Drea acaba levando-os a uma caminhada que os levará a encontro de um grupo de criaturas alienígenas carnívoras que acabaram de cair na Terra</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Arizona[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e243f400dbffd7da05c5e1254a006141496ae6eb&dn</link>
+<thumbnail>https://hidratorrent.org/capas/arizona-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/arizona-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info> Depois de perder sua casa por dificuldades financeiras, um homem instável (Danny McBride) sequestra sua agente imobiliária e a força a um jogo mortal, por que acha que ela foi desonesta e ficou com o dinheiro de clientes como ele. Faça o download de <strong>Arizona via torrent</strong>.</p></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Operação Supletivo Agora Vai! [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:704D7D82C8D9BC9B66ED0F68978672C126237554&dn</link>
+<thumbnail>https://hidratorrent.org/capas/operacao-supletivo-agora-vai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/operacao-supletivo-agora-vai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Um grupo de encrenqueiros é forçado a frequentar uma escola para adultos e, no local, terão que dar duro para passar em uma exame e enfim sair do ensino médio.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]No Manches Frida 2 Paraíso Destruído [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7c7d893a616b922957795e375dee85f5187f780&dn</link>
+<thumbnail>https://hidratorrent.org/capas/no-manches-frida-2-paraiso-destruido-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/no-manches-frida-2-paraiso-destruido-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Quando o, aparentemente, reformado ex-presidiário Zequi está prestes a se casar com o amor de sua vida, a adorável e nerd Lucy, o nervosismo do dia do casamento se transforma em um fiasco total e Lucy decide não casar mais. Ao mesmo tempo, a escola, está prestes a ser fechada, caso não ganhem o torneio de escolas. Será que eles vão conseguir ganhar o torneio e Zequi reconquistar Lucy?</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]4 Latas [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1f79f6541a6811f0c700913ee863f086c1dbc64&dn</link>
+<thumbnail>https://hidratorrent.org/capas/4-latas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/4-latas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info> Tocho, Jean Pierre e Ely viajam da Espanha para Mali, para conhecer o pai moribundo de Ely. </info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Happy Hour Verdades e Consequências [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F019B874BC87B238F43D888EB55FC4E9094A9E7&dn</link>
+<thumbnail>https://hidratorrent.org/capas/happy-hour-verdades-e-consequencias-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/happy-hour-verdades-e-consequencias-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info> Horácio é um argentino que mora no Brasil há 15 anos com sua esposa Vera. Sua vida muda radicalmente quando por acidente, ele vira um herói instantâneo. Com essa reviravolta, ele decide dar voz aos seus desejos e propõem a Vera um relacionamento aberto. Enquanto Horácio lida com a fama repentina, Vera pensa na separação, mas sua candidatura à prefeita a faz reavaliar: para ela nunca foi tão importante continuar casada com Horácio.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Pequeno Órfão[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dd2d49a494235d638d8c996a6f72fec48549c7d&dn</link>
+<thumbnail>https://hidratorrent.org/capas/o-pequeno-orfao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/o-pequeno-orfao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>Sadie (Olivia Wilde) é uma mulher que sofreu violência doméstica e enquanto ajuda outras vítimas a se livrarem de seus agressores, tenta matar o próprio marido (Morgan Spector) para que seja realmente livre.></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Aqui Em Casa Tudo Bem [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DC89A5E25E08080C1DE21364414399D4AAFABFE3&dn</link>
+<thumbnail>https://hidratorrent.org/capas/aqui-em-casa-tudo-bem-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://hidratorrent.org/capas/aqui-em-casa-tudo-bem-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>História de uma grande família reunida para celebrar as Bodas de Ouro dos avós. Partindo para Ischia, onde o casal aposentado mudou-se para viver, filhos e netos estão presos na ilha devido a uma súbita tempestade que impede que as balsas cheguem à costa. Todos serão forçados a ficar mais do que o previsto na ilha napolitana, sob o mesmo teto opressivo e em companhia de muitos parentes indesejáveis. É hora de lidar com eles mesmos, com seu próprio passado, com a inveja, o desconforto, os medos e até ataques de raios inesperados. </info>
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Cine Holliudy 2 A Chibata Sideral[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0FA6780AF87E16C7981A4C40C05D6596EE1792E&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ia199NVKYXOrIr681uX4ju5nHst.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u9alVFRgFG1OmsKfkXxeXfn45kN.jpg</fanart>
+<genre> [COLOR White][B] Comédia[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: Com a chegada do videocassete à casa das pessoas, Francisgleydisson se vê obrigado a fechar o seu querido Cine Holliudy. Isso compromete o pagamento da faculdade do seu filho, agora com 18 anos. Para salvar sua situação, ele decide produzir um filme de alienígenas usando as pessoas mais feias da população local.[/COLOR]  IMDb: : 7.1/10[/B]</info> 
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Green Boo O Gui[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46ce0112e6960893cc58e6e32bd0f29fc2c1f56a&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/4YIP867uE6FxRTVZvtze4FvSJJS.jpg</thumbnail>
+<fanart>http://www.casapark.com.br/wp-content/uploads/2019/01/green-book-2.jpg</fanart>
+<genre> [COLOR White][B] Biografia Comédia Drama[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] O Guia, 1962. Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.[/COLOR] IMDb 8.3[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Super Tiras 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f408fe6692f3bcb40f76c8aecbd1f31a2cb2d99&dn</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/03/05/11/21/4390198.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/lXtS4sFvOtwnFBiezzJvOMC7b9W.jpg</fanart>
+<genre> [COLOR White][B]  Comédia Crime[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Quando uma disputa começa entre as fronteiras dos EUA e Canadá, os Super Tiras são atarefados de montar uma estação patrulheira na área disputada.[/COLOR] IMDb 6.1[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Zoo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91f2ad62654a08c032d9e90a3bf76945672df56b&dn</link>
+<thumbnail>http://www.thaidvd.biz/images/d5_zoo.jpg</thumbnail>
+<fanart>https://images.justwatch.com/backdrop/10631453/s1440/o-zelador-animal</fanart>
+<genre> [COLOR White][B]  Família Guerra História[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Uma Amizade Maior que a Vida, Xadia e o reino dos humanos estão em pé de guerra. Será que Callum, Ezran e Rayla conseguirão vencer a magia negra e restaurar a paz no mundoDurante a Segunda Guerra Mundial, animais do zoológico de Belfast são ameaçados. O garoto Tom e seus amigos desafiam as autoridades e se aventuram para manter Buster, um bebê elefante, a salvo. Baseado em fatos reais.?[/COLOR] IMDb 6.7[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Era uma Vez um Deadpool[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eddb75fc8c81374cdf828d4dfc893d1937cec3f1&dn</link>
+<thumbnail>https://kanto.legiaodosherois.com.br/fnoop/wp-content/uploads/2018/12/legiao_vpml6HXuDIx7Mb5o1FdL_cyAZKEnQrfsJGRBOTePqC.jpg</thumbnail>
+<fanart>https://sm.ign.com/ign_br/news/d/deadpool-2/deadpool-2s-pg-13-cut-gets-a-poster_b6qb.jpg</fanart>
+<genre> [COLOR White][B] Ação, Aventura, Comédia, Heróis[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Era uma Vez um Deadpool, Determinado a provar que "Deadpool 2" é um filme para toda a família, Wade Wilson (Ryan Reynolds) limpa todos os palavrões e sangue da narrativa e sequestra o ator e diretor Fred Savage para reencenar A Princesa Prometida. Sem poder se desvencilhar das amarras, Savage é obrigado a ouvir o "conto de fadas" do Mercenário Tagarela, incluindo sua luta com Cable (Josh Brolin) e a formação da X-Force.[/COLOR] IMDb 7.8[/B]</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Doces ou Travessuras[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f25c77400487c21362fb4591992062a1d0f7e79&dn</link>
+<thumbnail>https://i.imgur.com/9LmWKgz.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/FD887IqtjKU/maxresdefault.jpg</fanart>
+<genre> [COLOR White][B]  Comédia Família[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] Uma família se muda de volta para Miami para cuidar de sua abuela viúva. Depois de se mudar para uma casa assombrada, a família aprende as intenções dos fantasmas que a habitam.[/COLOR] IMDb 7.0[/B] </info>
+</item>

@@ -1,0 +1,362 @@
+<item>
+<title>[COLOR lawngreen][B]Django livre[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198E94410AABB8E677D8F36C35A2E973613E085D</link>
+<thumbnail>https://ondebaixa.com/capas/django-livre-bluray-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Django é um escravo liberto que, sob a tutela de um caçador de recompensas alemão (que será vivido por Christoph Waltz) torna-se um mercenário perigoso. Depois de auxiliar seu mentor em alguns trabalhos por dinheiro, os dois partem para uma missão pessoal: encontrar e libertar a esposa de Django das garras de um fazendeiro inescrupuloso.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Buffalo Boys[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa70e687c4de478bb5e4e9dc10d11e112db70d07</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/o1Bn2zlIDJSnM5aOljbOPTM6Kf9.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Dois irmãos chamados Jamar e Suwo voltaram à terra de Java para vingar seu pai, que era um sultão, após anos de exílio na América.</info>
+</item>
+
+<item>
+<title>[COLOR orange][B][COLOR lime]Deadwood – O Filme[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57ae6e2e172ede53fdf4e2268d1c6920775ffc0a&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fCQ13cqd02dop7Chkov0fPl4r3t.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zD6CAWSohk6yoELx0sEvkBMtOXh.jpg</fanart>
+<genre> [COLOR White][B] Drama, Faroeste[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: Os residentes de Deadwood se reúnem para comemorar a oficialização da Dakota do Sul como um estado americano. Porém, 12 anos mais velhos, o tempo gerou graves consequências nesses cidadãos, especialmente em Al Swearengen (Ian McShane), que arruma confusão aonde passa.[/COLOR] IMDb: 8.6/10[/B]</info> 
+</item>
+
+<item>
+<title> [COLOR orange][B][COLOR lime]Domando o Destino[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d4bbb26e0c329245920fff4e00136bb5ef7f376&dn</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lLL5KBzOywkqg2agi6SE3Ss3ulg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4KAIRuAy1hJ5BDqIqLNpp3zb6gu.jpg</fanart>
+<genre> [COLOR White][B] Drama, Faroeste[/COLOR][/B]</genre>
+<info>[COLOR orange][B][COLOR white] SINOPSE: Depois de um acidente quase fatal na cabeça durante um rodeiro, um jovem cowboy passa a procurar uma nova identidade enquanto descobre o significado de ser um homem no coração da América do norte.[/COLOR]  IMDb: 7.5/10[/B]</info> 
+</item>
+
+<item>
+<title>[COLOR lawngreen][B] Vingança de Lefty Brown (2020)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a38ecdd73c14d12cb2d4a907d7465043051d962b</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2020/05/A-Vingan%C3%A7a-de-Lefty-Brown-Torrent-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Lefty Brown (Bill Pullman) é um ajudante de 63 anos que toda a sua vida ficou ao lado da lenda do faroeste Eddie Johnson (Peter Fonda). Johnson foi apontado como senador de Montana e, apesar das objeções da esposa Laura, planeja deixar Lefty em cargo do rancho. Quando um ladrão mata Johnson, Lefty é confrontado pela sombra do parceiro e das feias realidades da justiça na fronteira.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Inferno na Fronteira[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5175c2d5cce251490d41095fcf2061b2719f9c</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2019/12/Inferno-na-Fronteira-Torrents-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Baseado em fatos reais, Inferno na Fronteira conta a incrível história de Bass Reeves em sua caçada a um perigoso fora-da-lei para se tornar o primeiro xerife do Oeste selvagem. Estrelando também Ron Pearlman, como o fiel companheiro nesta jornada épica do faroeste</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Sob o Sol do Oeste[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c5ba1737fc3b2a269edab696b41e4b05bb19c9f</link>
+<thumbnail>https://www.comandofilmes4k.net/wp-content/uploads/2019/06/Damsel.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Samuel Alabaster (Robert Pattinson), um rico pioneiro, aventura-se pela remota fronteira dos EUA para se casar com o amor de sua vida, Penelope (Mia Wasikowska). Enquanto Samuel atravessa o Velho Oeste com um bêbado chamado Parson Henry (David Zellner) e um minicavalo chamado Butterscotch, sua jornada vai se tornando traiçoeira, apagando as linhas divisórias entre herói, vilão e donzela. Uma adorável reinvenção do gênero faroeste dos irmãos Zellner (“Kumiko, a Caçadora de Tesouros”), “Damsel” tem como marcas a imprevisibilidade, um senso de humor excêntrico e o humanismo.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Justiça: Entre a Lei e a Vingança[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be9e5b472246bfb46c4c68ee743c72a2757051e3</link>
+<thumbnail>https://www.comandofilmes4k.net/wp-content/uploads/2019/03/Justice.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: ”É 1868 e a guerra já dura três anos. Uma velha mina abandonada está sendo transformada em uma fortaleza militar pelo corrupto prefeito e um bando de bandidos sedentos que dão início a uma guerra civil. Quando o marechal James McCord chega à cidade e descobre que seu irmão foi assassinado, sua busca por vingança o leva a uma luta de vida ou morte por uma causa muito maior.”</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Último Duelo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9245f6bf8f5d6d3f364987806ba4e07720582ba6</link>
+<thumbnail>https://www.comandofilmes4k.net/wp-content/uploads/2019/02/Any-Bullet-Will-Do.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: ”Durante a Guerra Civil Norte-Americana, em 1864, dois irmãos se encontram em lados opostos do conflito, pois um deles almeja a abolição da escravidão, enquanto o outro pensa que este se trata de um direito divino dos brancos. Dez anos depois, Hollis Ransom, agora um caçador de recompensas sem escrúpulos, está em busca de seu irmão desde os tempos de guerra. Sua jornada o trouxe até Montana, em plena corrida do ouro.Tendo servido do lado da União, enquanto seu irmão foi um dos Confederados, Hollis nutriu um profundo ódio contra todos os que defenderam a bandeira confederada. O caminho até encontrar seu oposto para um duelo final é repleto de batalhas, perigos e desafios, mas Hollis não irá parar até que sua última bala encontre o destino dela.”</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Hostis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfdd5f77473f2f50ec3026575e771560e1abc02f</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2018/11/Hostis-Torrent-2018-Dublado-BluRay-Download-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: EUA. O ano é 1892. O capitão Joseph Blocker é um homem duro com razões de sobra para odiar as tribos nativas. Como conhece o idioma e o território índio melhor que ninguém, é lhe dada a missão de escoltar Águia Amarela, um chefe Cheyenne moribundo, e a sua família, de volta às suas terras. Apesar de relutante, Blocker acaba por aceitar, fazendo uma longa e perigosa travessia de quase dois mil quilômetros do Novo México até às planícies do Montana. Ao encontrarem Rosalie, uma jovem branca que sobreviveu ao massacre da própria família por um grupo de índios, decidem levá-la consigo. Os perigos que vão encontrando ao longo do caminho vão aproximá-los a todos, fazendo com que inimigos de longa data encontrem motivos de respeito e aceitação mútua</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Um Refúgio[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce131064e37ec28ab51e4f33372a50d08a2517e5</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2018/03/ewf3e-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: O filme é sobre três mulheres do Sul dos EUA – duas irmãs (Brit Marling e Hailee Steinfeld) e uma escrava (Muna Otaru) – que se veem forçadas a defender sua casa de um bando de soldados da União que se desgarrou do exército nortista, combatentes na Guerra Civil contra os Confederados do Sul.inas</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Duelo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1643902fbb5a54ec9811665638ab3d8fa9902a94</link>
+<thumbnail>https://www.comandofilmes4k.net/wp-content/uploads/2018/01/57bf0ac369c75.image_.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Harriet Lawler (Shirley MacLaine) é uma mulher de negócios bem-sucedida e decide escrever seu obituário, dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman (Amanda Seyfried). Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida antes que seja tarde e leva Anne a tiracolo, surgindo daí uma amizade inesperada.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Inferno no Faroeste[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9028303e9216978ae24a258445ee09a542852d6f</link>
+<thumbnail>https://i.imgur.com/lzoiPrB.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Guerrero Hernandez é líder de uma gangue de foras-da-lei chamada Blackwater Gang, que liberta seu meio-irmão Red de uma prisão, a fim de saquear uma cidade mineira. O plano dá errado quando Red trai o irmão e o mata. Hernandez então não vê outra alternativa, faz um pacto e volta a vida em busca de vingança.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Inferno no Faroeste 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab93d6c80679f73c0139b557a1c0f15384a397c8</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2017/11/aa-1-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Guerrero Hernandez volta dos mortos uma vez mais, para que uma relíquia roubada não caia nas mãos de um grupo de soldados, o que poderá causar o inferno na terra</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]McQuade, O Lobo Solitário[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f3d6bc33735b8e4623f372f89c08ac85320eec9</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2017/02/q3gt23-250x303.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: McQuade, O Lobo Solitário (1983) Torrent – BluRay 720p | 1080p Dublado / Dual Áudio Download – Torrent HD Full Dublado Assiste Online Download 1080p 720p Dual Áudio McQuade (Chuck Norris) é um Texas Rangers renegado, e assim prefere trabalhar sozinho, por isso mesmo ganha o apelido de Lobo Solitário, e tenta ficar sempre na sua. Só que ele descobre que alguns criminosos estão com armas automáticas, e que eles as roubam do exército militar. Ele tenta se manter longe disso, mas quando dois amigos seus são mortos, ele pensa que já é hora de interferir. E dessa vez, ele não fará o trabalho sozinho, porque um agente do FBI que também quer pegar os bandidos, oferece ajuda a McQuade, e junto com um recruta, eles vão atrás do cabeça do bando de criminosos.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Vingança Mesmo Que Tardia[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFBCDB5E1889E9646F136D0D4C1EC093058D41CE</link>
+<thumbnail>https://ondebaixa.com/capa/vinganca-mesmo-que-tardia-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Wild Bill Hickok (Joe Kidd) é assassinado e Calamity Jane (Erin R. Ryan) busca vingança, ao perseguir os homens que o mataram. Enquanto Jane está a caça, procurando fazer justiça com as próprias mãos, um homem da lei pede ajuda a Charlie Utter (Allen Sarven), um amigo de Jane, para poder acompanhá-la na caçada e tentar impedi-la antes que ela vá longe demais.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Sete Homens e um Destino[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1B9729D5563E412B5C74F6BF2C98C59A51E5D33</link>
+<thumbnail>https://i.imgur.com/wJC9ffx.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Se um filme é reflexo do seu tempo, faz sentido a nova versão de Sete Homens e Um Destino ser lançada em 2016, do jeitinho que está. Isso porque, para o bem e para o mal, o remake do faroeste homônimo de John Sturges de 1960 (por sua vez, uma releitura de Os Sete Samurais, de 1954), em relação aos “originais”, atualiza a trama com questões pertinentes aos dias atuais, ao mesmo tempo em que parece feito à medida para a plateia – e não necessariamente para desafiá-la.Em tempos de "inclusão" e "diversidade", o longa de Antoine Fuqua (Dia de Treinamento) traz quatro tipos (numericamente superiores, portanto) não-caucasianos entre os sete do título, sendo um oriental (Byung-Hun Lee), um descendente de indígenas (Martin Sensmeier) e um latino (Manuel Garcia-Rulfo, no papel que seria de Wagner Moura), todos sob a tutela de um negro, Sam Chisolm (Denzel Washington).Diferente do clássico dos anos</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Criminosos e Anjos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB062E684C4875724FB1161DE31B5CDE35EF805A</link>
+<thumbnail>https://i.imgur.com/VJGALxh.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Para se enconder ao longo da noite, uma gangue de bandidos sangretos em fuga de um notório caçador de recompensas invade a casa de uma família aparentemente inocente. Ao longo da noite, um inesperado jogo de "gato e rato" se inicia dentro da residência, levando a sedução e a inversões de papéis que finalizam em uma vingança.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Dança com Lobos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3282b64ab9502f3cc9bccfe71a2cf2a1d0b6f0e5</link>
+<thumbnail>https://ondebaixa.com/capas/danca-com-lobos-dvd-r-download-torrent-1990-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Durante a Guerra Civil Americana, soldado é enviado a um posto avançado no meio do nada e lá conhece uma tribo de índios sioux, da qual acaba fazendo amizade e tornando-se um deles</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Caminhos Ásperos[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1B1628E7BF7E3B420279B8A9A953A4A1991061CF</link>
+<thumbnail>https://i.imgur.com/mdCOFyB.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Vivendo em meio a hostil território Apache, Angie Lowe (Geraldine Page) insiste em não deixar a propriedade antes da volta de seu esposo Ed (Leo Gordon). Hondo Lane (John Wayne), um frio caubói de passagem, acaba capturado pelo líder indígena Vittorio (Michael Pate) e para escapar da morte passa-se pelo desaparecido marido. Sua missão agora é proteger a mulher e o filho dela, Johnny (Lee Aaker)</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Westworld: Onde Ninguém Tem Alma[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:163e8504db7a1c3dec28f81bc9c52b19440ac25c</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2016/10/WestWorlds.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Dois amigos, Peter Martin (Richard Benjamin) e John Blane (James Brolin), resolvem passar as férias no hipermoderno centro de diversões de Delos, que cobra US$ 1000 por pessoa ao dia. Lá foram criados os ambientes da Roma Imperial, Idade Média e do Velho Oeste, todos povoados por robôs perfeitos. Eles optam por este último “mundo”, onde enfrentariam em duelos “terríveis bandidos” e seduziriam “belas mulheres”. Os andróides foram programados para satisfazer os clientes e nunca os ferir, mas devido a problemas técnicos os robôs dos três “mundos” se tornam assassinos. Enquanto vários visitantes são mortos a dupla de amigos tenta fugir dos robôs, principalmente de um pistoleiro eletrônico que quer matá-los de qualquer jeito</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Sem Lei e Sem Alma[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7fb0b4f66312c69be470cb4ed0067af3e02085c</link>
+<thumbnail>https://i.imgur.com/z71aHIH.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Wyatt Earp (Burt Lancaster), lendário homem da lei, aposenta-se e vai visitar a família em Tombstone, no Arizona. Lá ele se une a Doc Holliday (Kirk Douglas) - pistoleiro gravemente doente e viciado em jogo que também acaba de chegar na cidade - para combater o temido bando de Ike Clanton (Lyle Bettger).</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Rastro De Maldade[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEC14736F0088C85EF5E46B7FFC01B68D4E88BC1</link>
+<thumbnail>https://i.imgur.com/VHZbq4Q.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O xerife Hunt (Kurt Russell) é chamado pelo delegado assistente Chicory (Richard Jenkins) para falar com um forasteiro suspeito (David Arquette), que acaba de chegar à cidade de Bright Hope. Como ele tenta escapar, o xerife dá um tiro em sua perna e logo chama a enfermeira Samantha O'Dwyer (Lili Simmons) para tratá-lo. Entretanto, durante a madrugada a delegacia é atacada por uma tribo de índios selvagens, que sequestra Samantha, o prisioneiro e ainda o subdelegado Nick (Evan Jonigkeit). Logo o xerife reúne uma equipe de resgate, formada por Chicory, pelo marido Arthur O'Dwyer (Patrick Wilson) e o conquistador e especialista em armas John Brooder (Matthew Fox). Entretanto, além dos perigos da travessia o quarteto precisa lidar com o fato de que Arthur está seriamente ferido na perna, o que prejudica sua locomoção</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Três Homens em Conflito[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfd45b477f644f62921e511a7b301343b14ab003</link>
+<thumbnail>https://ondebaixa.com/capas/tres-homens-em-conflito-versao-estendida-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O inimitável Homem sem Nome se alia a dois pistoleiros para ir atrás de uma fortuna em ouro roubado. Mas o trabalho em equipe não é uma atividade comum aos fora-da-lei, e eles logo descobrem que seu maior desafio é ficar vivo em um país devastado pela guerra.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Retorno de John Henry[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79A16AFCAEBD1953C8C35D3D2F674192EB7A39B3</link>
+<thumbnail>https://i.imgur.com/VwoVTL2.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Atormentado por um segredo obscuro, um pistoleiro abandona sua vida de assassinatos e volta para casa, quando descobre que sua mãe morreu. Ele é forçado a confrontar seu distante pai e a vida que deixou para trás</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Rápida e Mortal (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dddd9988ddc3bae68ce6eae6eafb66ad3ca63be</link>
+<thumbnail>https://i.imgur.com/gIhN2Ze.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Ellen (Sharon Stone) chega ao vilarejo de Redenção para participar de um concurso entre pistoleiros, organizado anualmente por John Herod (Gene Hackman). Seu objetivo é enfrentar Herod, já que ele destruiu sua vida no passado. Logo ao chegar ela conhece o pastor Cort (Russell Crowe), que se recusa a usar uma arma para matar alguém novamente. Sabendo que Cort é um dos melhores pistoleiros da região, Herod tenta fazer com que ele também participe da competição.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]The Ridiculous 6[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A3BF4891A8C5F931C9ABBDA64DBAF1249421ABD</link>
+<thumbnail>https://ondebaixa.com/capas/os-seis-ridiculos-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Para resgatar seu pai fora da lei, Tommy "Faca Branca" Stockburn parte em uma jornada através do velho oeste com cinco irmãos que ele nem sabia que existiam.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Os Oito Odiados[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A06666DFD157139FFF8862063A4A64434B6A0B40</link>
+<thumbnail>https://i.imgur.com/WWKftk7.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Durante uma nevasca, o carrasco John Ruth (Kurt Russell) está transportando uma prisioneira, a famosa Daisy Domergue (Jennifer Jason Leigh), que ele espera trocar por grande quantia de dinheiro. No caminho, os viajantes aceitam transportar o caçador de recompensas Marquis Warren (Samuel L. Jackson), que está de olho em outro tesouro, e o xerife Chris Mannix (Walton Goggins), prestes a ser empossado em sua cidade. Como as condições climáticas pioram, eles buscam abrigo no Armazém da Minnie, onde quatro outros desconhecidos estão abrigados. Aos poucos, os oito viajantes no local começam a descobrir os segredos sangrentos uns dos outros, levando a um inevitável confronto entre eles</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Tombstone: A Justiça está chegando[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86c404d20243c549daca92aa4a71f8cc7611f063</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2014/12/Tombstone-A-Justi%C3%A7a-est%C3%A1-chegando-1993-Bluray-720p-Dual-%C3%81udio-%E2%80%93-Torrent-Download-e1461345085877.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Após acabar com o crime em Dodge City, Wyatt Earp (Kurt Russell) se muda para a cidade de Tombstone, onde pretende enriquecer anonimamente. Lá ele encontra seus irmãos e também Doc Holliday (Val Kilmer), seu velho amigo. Eles levam a vida sem problemas, até o aparecimento de um grupo de bandoleiros que começa a causar confusão pelas redondezas. Para resolver a situação os integrantes da família Earp e Doc Holliday decidem combatê-los.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Frontera[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FADAFDF854099DBC96892FE0ECD8E0D7D7492B9C</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2014/10/Frontera-2014-Bluray-1080p-Dual-%C3%81udio-%E2%80%93-Torrent-Download-e1460303246496.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Um homem mexicano decide atravessar ilegalmente a fronteira dos Estados Unidos, para conseguir melhores condições de vida à sua família. No momento de sua travessia, ele percebe tiros em sua direção. O homem consegue escapar, mas uma mulher que passava pelo local é morta. O imigrante é considerado o principal suspeito do assassinato, mas o marido da vítima e o xerife investigam os verdadeiros responsáveis pelo crime</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Diablo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE037DDA748826C4980A7AEF91CA2722F38F3EDF</link>
+<thumbnail>https://i.imgur.com/g2glm5L.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Nos anos que seguiram à Guerra Civil americana, o país ficou em pedaços até começar a reconstruir sua sociedade e a nação como um todo, aos poucos. Em meio à essa situação, um homem, jovem veterano da Guerra Civil, precisará embarcar em uma jornada repleta de desespero com o objetivo de resgatar sua mulher, que foi raptada</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Appaloosa – Uma Cidade Sem Lei[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13098A7CB7BF540EE40333A3D0369B514A0B465F</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2014/07/Appaloosa-Uma-Cidade-Sem-Lei-2008-Bluray-720p-Dual-%C3%81udio-%E2%80%93-Torrent-Download-e1458678193111.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE: Virgil Cole (Ed Harris) e Everett Hitch (Viggo Mortensen) são pistoleiros contratados para que cuidem da cidade de Appaloosa, no velho oeste americano. O local é controlado por Randall Bragg (Jeremy Irons), um rancheiro que ordenou a morte do último xerife e que não respeita qualquer lei. Entretanto a tarefa de Virgil e Everett é prejudicada pela chegada de Alliso French (Renée Zellweger), uma jovem viúva</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Rio das Almas Perdidas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B648FF5A50923A46DC0B6D40BEE6E6A90F53C9AD</link>
+<thumbnail>https://i.imgur.com/O56wzAL.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Em 1875, durante a corrida do ouro nos Estados Unidos, Matt Calder (Robert Mitchum), um ex-presidiário que recentemente saiu da cadeia, reencontra Mark Calder (Tommy Retting), seu jovem filho que nada sabe do seu passado. Com ele planeja se estabelecer como fazendeiro. Algum tempo depois os dois socorrem Kay Weston (Marilyn Monroe), uma cantora de saloon que conheciam, e Harry Westo (Rory Calhoun), seu namorado, quando tentavam atravessar um perigoso rio em uma balsa. Mas Harry está tão ansioso em registrar uma concessão de ouro que ele diz que ganhou em um jogo que fere Matt, que o salvou, pois quer um cavalo e uma arma a qualquer custo. Kay fica então no rancho cuidando de Matt e Mark, enquanto Harry vai embora sozinho, mas prometendo voltar. Entretanto, os índios chegam no local e os três são obrigados a fugir por um rio com perigosas corredeiras. Mas o rancheiro está determinado em chegar ao seu destino, para se vingar</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Os Indomáveis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b259deea7fd35c88d233fd265196bcf50f98146</link>
+<thumbnail>https://ondebaixa.com/capas/os-indomaveis-dvd-r-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Dan Evans (Christian Bale) é um jovem rancheiro, que enfrenta dificuldades financeiras e está prestes a perder as terras onde vive com sua família. Após realizar mais um assalto a diligência, o perigoso Ben Wade (Russell Crowe) segue para uma pequena cidade do velho oeste. Lá ele é preso e logo é organizado um grupo para levá-lo até uma cidade distante, onde poderá ser enviado à prisão de Yuma através de um trem. Evans se oferece para integrar o grupo, desde que receba uma recompensa financeira que resolva seus problemas. A proposta é aceita, mas fazer com que Wade embarque no trem não será uma tarefa fácil, já que os demais integrantes de seu bando estão vindo em seu resgate</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Bandidas[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10F836A8D2E4F31B6B13B9355F0C0072F32586E3</link>
+<thumbnail>https://ondebaixa.com/capa/bandidas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: México, 1880. Sara Sandoval (Salma Hayek) é a bela filha de um rico banqueiro. Maria Alvarez (Penélope Cruz) é a bela filha de um camponês. Elas aparentemente não têm nada em comum, mas o destino faz com que se tornem as mais perigosas e sensuais assaltantes de banco do país. Com a ajuda de Quentin Cooke (Steve Zahn), um inspetor de polícia idealista, Sara e Maria combatem Tyler Jackson (Dwight Yoakam), o representante do Banco de Nova York que está tentando tomar ilegalmente as terras da população local</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]A Salvação[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61a830feb476b1b8be8451190ac59ba55e6402fd</link>
+<thumbnail>https://ondebaixa.com/capas/a-salvacao-the-salvation-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização e plano para o bandido. Sozinho, ele é forçado a caçar a gangue com as próprias mãos.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Cactus Jack, o Vilão[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:757EAA2DD10708D12C5FDEF75BD77BACC3D63598</link>
+<thumbnail>https://ondebaixa.com/capas/cactus-jack-o-vilao-download-torrent-1979-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Ele se veste de preto dos pés à cabeça e rodopia sua arma. Seu nome é "Cactus Jack" Slater e ele é The Villain. Kirk Douglas estrela como o imprestável ladrão de estrada nesta comédia de tiroteio excêntrica, co-estrelando Arnold Schwarzenegger como Handsome Stranger e Ann-Margret como a robusta Senhorita Charming Jones. Parody, o pai de Charming enviou-a numa missão por terra arriscada, proporcionando ao desonesto banqueiro Avery Simpson a chance perfeita de fazer Parody perder sua fortuna. Simpson oferece comprar a liberdade de Cactus Jack, que está na prisão Snakes End, caso ele concorde em fazer o serviço sujo. Mas Cactus Jack planeja trair o traidor. Seus planos vão por água abaixo quando Arnold Schwarzenegger entra como Handsome Stranger. Ele deve a Parody Jones sua vida, e o troco vem em completo tiroteio, cômico por sinal, quando o reformador social de olhos azuis cumpre seu dever: proteger o saque e a senhora com a boa sorte de um cavaleiro de chapéu branco. Pegue carona num cavalo chamado Whiskey e num dos melhores elencos destacando Paul Lynde, quando The Villain trama passar a perna em Handsome com determinação de palhaço. Uma paródia de banguebangue que prova não se poder julgar um cowboy pela cor de seu chapéu.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Quatro Mulheres e Um Destino[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CE2111B6EDF3BD61632B84857DEE7A19340F60E</link>
+<thumbnail>https://ondebaixa.com/capa/quatro-mulheres-e-um-destino-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Madeline Stowe, Andie MacDowell, Drew Barrymore e Mary Stuart Masterson estrelam esta história do selvagem faroeste na qual quatro garotas estão em fuga. Rotuladas como fora-da-lei, perseguidas por um grupo armado e pelos detetives Pinkerton, as quatro cavalgam juntas para se manterem vivas. Mas quando são enganadas por uma gangue de impiedosos renegados, as moças decidem que é hora de parar de fugir, e começar a lutar</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Trinity é o Meu Nome / Eles Me Chamam Trinity[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42D9F4B8EEA35EA8B24252D6CCD8B1CD2BE66060</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCZnD4O0JGas_nozBsCA1UctO3pU9z4NkP8F6uVbzUFAaCS72F</thumbnail>
+<fanart></fanart>
+<info>SINOPSE:A dupla de heróis do desastre, rápidos no gatilho e bons de briga, os irmãos, tentam salvar uma cidade das mãos de ladrões de gado, cruéis e sanguinários. O diabólico xerife da cidade também está envolvido nesta aventura cheia de adrenalina. E na medida em que Trinity resolve interferir nos planos dos bandidos, a tensão aumenta. Esta situação explosiva, atira violentamente os dois irmãos de encontro a um clímax incrível. Com muita ação, tiros e humor, nossos heróis do barulho tentarão salvar a cidade e seus colonos das garras dos bandidos. Uma aventura imperdível!</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Uma Segunda Chance - Our Wild Hearts[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85F1339E89240AFFF9F29E1B0A85F870AF278EBB</link>
+<thumbnail>https://ondebaixa.com/capa/uma-segunda-chance-our-wild-hearts-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Willow (Cambrie Schroder) é uma menina forte e independente, moradora de Malibu, e está determinada a encontrar o pai que nunca conheceu. Até que eles se encontram. Seu pai é um homem chamado Jack (Ricky Schoder), um rústico cowboy das montanhas de Sierra Nevada que cuidava de um rancho e agora Jack trabalha vendendo cavalos selvagens. Pai e filha lutam para compreender um ao outro e seus diferentes estilos de vida</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Bravura Indômita[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80ec0eb19b955fa3ab01eef1de890caee33b8736</link>
+<thumbnail>https://i.imgur.com/aQGEmmH.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O pai de Mattie Ross (Hailee Steinfeld), de apenas 14 anos, foi assassinado a sangue frio por Tom Shaney (Josh Brolin). Em busca de vingança, ela resolve contratar um xerife beberrão, Reuben J. Cogburn (Jeff Bridges), para ir atrás dele. Inicialmente ele recusa a oferta, mas como precisa de dinheiro acaba aceitando. Mattie exige ir junto com Reuben, o que não lhe agrada. Para capturar Shaney eles precisam entrar em território indígena e encontrá-lo antes de La Boeuf (Matt Damon), um policial do Texas que está à sua procura devido ao assassinato de outro homem.</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]O Cavaleiro Solitário[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66d089578b38615a545b3ecb409e7bdefc36654</link>
+<thumbnail>https://ondebaixa.com/capas/o-cavaleiro-solitario-the-lone-ranger-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O índio guerreiro Tonto (Johnny Depp) conta a história não conhecida que transformou John Reid (Armie Hammer), um homem da lei, em uma lenda da justiça. É uma acelerada viagem cheia de surpresas épicas e muito humor sobre os dois improváveis heróis que precisam aprender a trabalhar juntos e lutar contra a ganância e a corrupção</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]El Dorado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f6e02acc8f9560dc037c408ba7a4f733c91d317</link>
+<thumbnail>https://i.imgur.com/uZaCnQk.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: O pistoleiro Cole Thornton (John Wayne) retorna a El Dorado para ajudar um velho amigo, o xerife J.P. Harrah (Robert Mitchum). Harrah, incansável na luta contra os arruaceiros do velho oeste, está na mira de Bart Jason (Edward Asner), mas contará com a ajuda de Thornton e do jovem Mississipi (James Caan) na defesa da ordem</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Cahill, Xerife do Oeste[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16512ff23c47f7208869a4f6e774c43f51c8e6f0</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2015/08/Cahill-Xerife-do-Oeste-1973-BRrip-Blu-Ray-720p-Dublado-%E2%80%93-Torrent-Download.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE:Um agente federal abstinado, pai de dois rapazes adolescentes, é obrigado a deixar sua cidade para perseguir um grupo de bandidos. Ao voltar para casa, descobre que o banco local foi assaltado, o xerife foi assassinado e que dois dos criminosos envolvidos são seus filhos, incluindo o mais velho, que são aliciados por um notório fora-da-lei. Ele se vê forçado a lidar com a situação da melhor forma possível, ao mesmo tempo que tenta prender o pistoleiro que desencaminhou os garotos. Um grande faroeste, indispensável ao fãs de John Wayne</info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Gigantes em Luta (1967)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13da1da714cfea5eebb17ca7021acf067754c6ef</link>
+<thumbnail>https://comandofilmes4k.net/wp-content/uploads/2015/08/Gigantes-em-Luta-1967-BRrip-Blu-Ray-720p-Dublado-%E2%80%93-Torrent-Donwload.jpg</thumbnail>
+<fanart></fanart>
+<info>SINOPSE:Um ex-bandido (John Wayne) associa-se a outro (Kirk Douglas), e juntos planejam praticar um roubo espetacular de um grande carregamento de ouro no valor de US$ 500.000, que é transportado por uma carroça blindada, equipada com uma potente metralhadora e considerada um verdadeiro carro forte inexpugnável. Após enfrentarem várias situações difíceis e perigosas, conseguem finalmente se apossar do ouro. Porém, uma desagradável surpresa os aguarda no momento da divisão do produto do roubo. Maravilhoso faroeste americano, pleno de ação e aventura com excelente roteiro e a direção segura e competente de Burt Kennedy, este western traz os dois maiores astros de Hollywood no gênero, em excelente forma.</info>
+</item>
+
